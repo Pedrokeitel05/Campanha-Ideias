@@ -84,11 +84,11 @@ function App() {
               <h3 className="text-xl sm:text-2xl font-bold text-white mb-3 sm:mb-4">Período</h3>
               <p className="text-sm sm:text-base text-slate-300 mb-3 sm:mb-4 leading-relaxed">
                 <span className="text-white font-semibold">Inscrições:</span><br />
-                15/10/2025 a 08/11/2025
+                27/10/2025 a 14/11/2025
               </p>
               <p className="text-sm sm:text-base text-slate-300 leading-relaxed">
                 <span className="text-white font-semibold">Duração:</span><br />
-                25 dias
+                18 dias
               </p>
             </div>
           </section>
